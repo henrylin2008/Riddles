@@ -14,3 +14,5 @@ At the same time, burn one end of the other rope.
 When the first rope finishes burning, light the other end of the remaining rope.
 
 When it burns out, that's 45 minutes.
+
+#update # 2

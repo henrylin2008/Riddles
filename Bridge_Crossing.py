@@ -18,3 +18,5 @@ Move	Time
 (2) Returns with Torch	2
 (1) & (2) Cross with Torch	2
  	17
+
+#update v2 

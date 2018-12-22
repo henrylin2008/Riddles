@@ -28,3 +28,6 @@ If n =100, then m would be 13.65 which since we can't drop from a decimal of a f
 So, the worst case scenario is now when the threshold is in the first 14 floors with number of drops being 14.
 
 Note that this is simply a binary search!
+
+
+#update v2 
